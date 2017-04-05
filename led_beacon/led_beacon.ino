@@ -38,3 +38,25 @@ void ProgOut(byte id, float val) {
   
 }
 
+/*
+@ ================= INFO =================
+
+Board #1 - Arduino (USB) -------------------------------------------------------
+
+---- Digital pins: ----
+
+13 - Beacon Switch On
+
+---- Analog pins: ----
+
+
+
+
+@ ================= CONFIG =================
+
+*1-1U
+[A]
+[O]
+13L 0 sim/cockpit2/switches/beacon_on 0
+*/
+
