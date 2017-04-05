@@ -7,8 +7,7 @@ Conexion de Arduino por: USB
 www.youtube.com/c/XplaneEspañol
 www.patreon.com/XPlaneEspanol
 
-Descargar librería ARDsimX: http://svglobe.com
-
+Descargar librería ARDsimX: http://svglobe.com/ardsimx/
  */
  
 #include <ArdCom.h>
